@@ -1,1 +1,0 @@
-{"ast":null,"code":"export { default } from '../components/templates/GameTemplate';","map":{"version":3,"sources":["C:/Users/guglani lalit/Documents/react-assignment/pages/index.js"],"names":["default"],"mappings":"AAAA,SAASA,OAAT,QAAwB,sCAAxB","sourcesContent":["export { default } from '../components/templates/GameTemplate';"]},"metadata":{},"sourceType":"module"}
